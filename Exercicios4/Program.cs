@@ -12,10 +12,9 @@ namespace Exercicios4
 
             for (int i = 1; i <= N; i++)
             {
-                if (N % i == 0)
-                {
-                    Console.WriteLine(i);
-                }
+                int quadrado = i * i;
+                int cubo = i * i * i;
+                Console.WriteLine($"{i} {quadrado} {cubo}");
             }
         }
     }

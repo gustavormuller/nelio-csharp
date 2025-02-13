@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\Exercicios3\bin\Debug\net8.0\Exercicios3.exe
+C:\Aulas\csharp-nelio\Exercicios3\bin\Debug\net8.0\Exercicios3.deps.json
+C:\Aulas\csharp-nelio\Exercicios3\bin\Debug\net8.0\Exercicios3.runtimeconfig.json
+C:\Aulas\csharp-nelio\Exercicios3\bin\Debug\net8.0\Exercicios3.dll
+C:\Aulas\csharp-nelio\Exercicios3\bin\Debug\net8.0\Exercicios3.pdb
+C:\Aulas\csharp-nelio\Exercicios3\obj\Debug\net8.0\Exercicios3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\Exercicios3\obj\Debug\net8.0\Exercicios3.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\Exercicios3\obj\Debug\net8.0\Exercicios3.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\Exercicios3\obj\Debug\net8.0\Exercicios3.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\Exercicios3\obj\Debug\net8.0\Exercicios3.dll
+C:\Aulas\csharp-nelio\Exercicios3\obj\Debug\net8.0\refint\Exercicios3.dll
+C:\Aulas\csharp-nelio\Exercicios3\obj\Debug\net8.0\Exercicios3.pdb
+C:\Aulas\csharp-nelio\Exercicios3\obj\Debug\net8.0\Exercicios3.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\Exercicios3\obj\Debug\net8.0\ref\Exercicios3.dll

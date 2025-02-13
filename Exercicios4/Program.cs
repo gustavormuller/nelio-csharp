@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Exercicios4
 {
@@ -9,26 +10,16 @@ namespace Exercicios4
             Console.WriteLine("Digite um número inteiro: ");
             int N = int.Parse(Console.ReadLine()!);
 
-            int dentro = 0;
-            int fora = 0;
-
             for (int i = 0; i < N; i++)
             {
-                Console.WriteLine("Digite um número");
-                int x = int.Parse(Console.ReadLine()!);
-                if (x >= 10 && x <= 20)
-                {
-                    dentro++;
-                }
-                else
-                {
-                    fora++;
-                }
+                Console.WriteLine("Digite 3 números com uma casa decimal: ");
+                double n1 = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+                double n2 = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+                double n3 = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+
+                double media = (n1 * 2.0 + n2 * 3.0 + n3 * 5.0) / 10.0;
+                Console.WriteLine(media.ToString("F1", CultureInfo.InvariantCulture));
             }
-
-            Console.WriteLine($"{dentro} in");
-            Console.WriteLine($"{fora} out");
-
         }
     }
 }

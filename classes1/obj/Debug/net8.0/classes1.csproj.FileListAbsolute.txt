@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\classes1\bin\Debug\net8.0\classes1.exe
+C:\Aulas\csharp-nelio\classes1\bin\Debug\net8.0\classes1.deps.json
+C:\Aulas\csharp-nelio\classes1\bin\Debug\net8.0\classes1.runtimeconfig.json
+C:\Aulas\csharp-nelio\classes1\bin\Debug\net8.0\classes1.dll
+C:\Aulas\csharp-nelio\classes1\bin\Debug\net8.0\classes1.pdb
+C:\Aulas\csharp-nelio\classes1\obj\Debug\net8.0\classes1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\classes1\obj\Debug\net8.0\classes1.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\classes1\obj\Debug\net8.0\classes1.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\classes1\obj\Debug\net8.0\classes1.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\classes1\obj\Debug\net8.0\classes1.dll
+C:\Aulas\csharp-nelio\classes1\obj\Debug\net8.0\refint\classes1.dll
+C:\Aulas\csharp-nelio\classes1\obj\Debug\net8.0\classes1.pdb
+C:\Aulas\csharp-nelio\classes1\obj\Debug\net8.0\classes1.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\classes1\obj\Debug\net8.0\ref\classes1.dll

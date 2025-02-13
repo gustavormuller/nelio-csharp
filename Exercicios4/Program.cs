@@ -6,15 +6,29 @@ namespace Exercicios4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite um valor entre 1 e 1000");
-            int x = int.Parse(Console.ReadLine()!);
+            Console.WriteLine("Digite um número inteiro: ");
+            int N = int.Parse(Console.ReadLine()!);
 
-            for (int i = 1; i <= x; i++) {
-                if (i == 1 || i % 2 != 0)
+            int dentro = 0;
+            int fora = 0;
+
+            for (int i = 0; i < N; i++)
+            {
+                Console.WriteLine("Digite um número");
+                int x = int.Parse(Console.ReadLine()!);
+                if (x >= 10 && x <= 20)
                 {
-                    Console.WriteLine(i);
+                    dentro++;
+                }
+                else
+                {
+                    fora++;
                 }
             }
+
+            Console.WriteLine($"{dentro} in");
+            Console.WriteLine($"{fora} out");
+
         }
     }
 }

@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\ExClasses2\bin\Debug\net8.0\ExClasses2.exe
+C:\Aulas\csharp-nelio\ExClasses2\bin\Debug\net8.0\ExClasses2.deps.json
+C:\Aulas\csharp-nelio\ExClasses2\bin\Debug\net8.0\ExClasses2.runtimeconfig.json
+C:\Aulas\csharp-nelio\ExClasses2\bin\Debug\net8.0\ExClasses2.dll
+C:\Aulas\csharp-nelio\ExClasses2\bin\Debug\net8.0\ExClasses2.pdb
+C:\Aulas\csharp-nelio\ExClasses2\obj\Debug\net8.0\ExClasses2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\ExClasses2\obj\Debug\net8.0\ExClasses2.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\ExClasses2\obj\Debug\net8.0\ExClasses2.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\ExClasses2\obj\Debug\net8.0\ExClasses2.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\ExClasses2\obj\Debug\net8.0\ExClasses2.dll
+C:\Aulas\csharp-nelio\ExClasses2\obj\Debug\net8.0\refint\ExClasses2.dll
+C:\Aulas\csharp-nelio\ExClasses2\obj\Debug\net8.0\ExClasses2.pdb
+C:\Aulas\csharp-nelio\ExClasses2\obj\Debug\net8.0\ExClasses2.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\ExClasses2\obj\Debug\net8.0\ref\ExClasses2.dll

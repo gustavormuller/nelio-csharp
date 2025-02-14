@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.exe
+C:\Aulas\csharp-nelio\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.deps.json
+C:\Aulas\csharp-nelio\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.runtimeconfig.json
+C:\Aulas\csharp-nelio\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.dll
+C:\Aulas\csharp-nelio\MembrosEstaticos\bin\Debug\net8.0\MembrosEstaticos.pdb
+C:\Aulas\csharp-nelio\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.dll
+C:\Aulas\csharp-nelio\MembrosEstaticos\obj\Debug\net8.0\refint\MembrosEstaticos.dll
+C:\Aulas\csharp-nelio\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.pdb
+C:\Aulas\csharp-nelio\MembrosEstaticos\obj\Debug\net8.0\MembrosEstaticos.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\MembrosEstaticos\obj\Debug\net8.0\ref\MembrosEstaticos.dll

@@ -7,25 +7,29 @@ namespace ExClasses2
     {
         static void Main(string[] args)
         {
-            Funcionario func = new Funcionario();
+            Aluno aluno = new Aluno();
 
-            Console.WriteLine("Insira os dados do funcionário:");
+            Console.WriteLine("Insira o nome e as notas do aluno:");
             Console.Write("Nome: ");
-            func.Nome = Console.ReadLine();
-            Console.Write("Salário bruto: ");
-            func.SalarioBruto = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
-            Console.Write("Imposto: ");
-            func.Imposto = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+            aluno.Nome = Console.ReadLine();
+            Console.Write("Nota 1: ");
+            aluno.Nota1 = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+            Console.Write("Nota 2: ");
+            aluno.Nota2 = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
+            Console.Write("Nota 3: ");
+            aluno.Nota3 = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
 
             Console.WriteLine("");
-            Console.WriteLine(func);
-
-            Console.WriteLine("");
-            Console.Write("Digite a porcentagem para aumentar o salário: ");
-            double porcentagem = double.Parse(Console.ReadLine()!, CultureInfo.InvariantCulture);
-            func.AumentarSalario(porcentagem);
-
-            Console.WriteLine("Dados atualizados: " + func);
+            Console.WriteLine("Nota final = " + aluno.NotaFinal());
+            if (aluno.Aprovado())
+            {
+                Console.WriteLine("Aluno aprovado!");
+            }
+            else
+            {
+                Console.WriteLine("Reprovado!");
+                Console.WriteLine("Faltaram " + aluno.NotaRestante() + " pontos");
+            }
         }
     }
 }

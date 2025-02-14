@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\ExercicioBanco\bin\Debug\net8.0\ExercicioBanco.exe
+C:\Aulas\csharp-nelio\ExercicioBanco\bin\Debug\net8.0\ExercicioBanco.deps.json
+C:\Aulas\csharp-nelio\ExercicioBanco\bin\Debug\net8.0\ExercicioBanco.runtimeconfig.json
+C:\Aulas\csharp-nelio\ExercicioBanco\bin\Debug\net8.0\ExercicioBanco.dll
+C:\Aulas\csharp-nelio\ExercicioBanco\bin\Debug\net8.0\ExercicioBanco.pdb
+C:\Aulas\csharp-nelio\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.dll
+C:\Aulas\csharp-nelio\ExercicioBanco\obj\Debug\net8.0\refint\ExercicioBanco.dll
+C:\Aulas\csharp-nelio\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.pdb
+C:\Aulas\csharp-nelio\ExercicioBanco\obj\Debug\net8.0\ExercicioBanco.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\ExercicioBanco\obj\Debug\net8.0\ref\ExercicioBanco.dll

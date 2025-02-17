@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\FixacaoVetores\bin\Debug\net8.0\FixacaoVetores.exe
+C:\Aulas\csharp-nelio\FixacaoVetores\bin\Debug\net8.0\FixacaoVetores.deps.json
+C:\Aulas\csharp-nelio\FixacaoVetores\bin\Debug\net8.0\FixacaoVetores.runtimeconfig.json
+C:\Aulas\csharp-nelio\FixacaoVetores\bin\Debug\net8.0\FixacaoVetores.dll
+C:\Aulas\csharp-nelio\FixacaoVetores\bin\Debug\net8.0\FixacaoVetores.pdb
+C:\Aulas\csharp-nelio\FixacaoVetores\obj\Debug\net8.0\FixacaoVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\FixacaoVetores\obj\Debug\net8.0\FixacaoVetores.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\FixacaoVetores\obj\Debug\net8.0\FixacaoVetores.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\FixacaoVetores\obj\Debug\net8.0\FixacaoVetores.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\FixacaoVetores\obj\Debug\net8.0\FixacaoVetores.dll
+C:\Aulas\csharp-nelio\FixacaoVetores\obj\Debug\net8.0\refint\FixacaoVetores.dll
+C:\Aulas\csharp-nelio\FixacaoVetores\obj\Debug\net8.0\FixacaoVetores.pdb
+C:\Aulas\csharp-nelio\FixacaoVetores\obj\Debug\net8.0\FixacaoVetores.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\FixacaoVetores\obj\Debug\net8.0\ref\FixacaoVetores.dll

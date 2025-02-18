@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\FixacaoMatrizes\bin\Debug\net8.0\FixacaoMatrizes.exe
+C:\Aulas\csharp-nelio\FixacaoMatrizes\bin\Debug\net8.0\FixacaoMatrizes.deps.json
+C:\Aulas\csharp-nelio\FixacaoMatrizes\bin\Debug\net8.0\FixacaoMatrizes.runtimeconfig.json
+C:\Aulas\csharp-nelio\FixacaoMatrizes\bin\Debug\net8.0\FixacaoMatrizes.dll
+C:\Aulas\csharp-nelio\FixacaoMatrizes\bin\Debug\net8.0\FixacaoMatrizes.pdb
+C:\Aulas\csharp-nelio\FixacaoMatrizes\obj\Debug\net8.0\FixacaoMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\FixacaoMatrizes\obj\Debug\net8.0\FixacaoMatrizes.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\FixacaoMatrizes\obj\Debug\net8.0\FixacaoMatrizes.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\FixacaoMatrizes\obj\Debug\net8.0\FixacaoMatrizes.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\FixacaoMatrizes\obj\Debug\net8.0\FixacaoMatrizes.dll
+C:\Aulas\csharp-nelio\FixacaoMatrizes\obj\Debug\net8.0\refint\FixacaoMatrizes.dll
+C:\Aulas\csharp-nelio\FixacaoMatrizes\obj\Debug\net8.0\FixacaoMatrizes.pdb
+C:\Aulas\csharp-nelio\FixacaoMatrizes\obj\Debug\net8.0\FixacaoMatrizes.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\FixacaoMatrizes\obj\Debug\net8.0\ref\FixacaoMatrizes.dll

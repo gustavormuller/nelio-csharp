@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\FixacaoListas\bin\Debug\net8.0\FixacaoListas.exe
+C:\Aulas\csharp-nelio\FixacaoListas\bin\Debug\net8.0\FixacaoListas.deps.json
+C:\Aulas\csharp-nelio\FixacaoListas\bin\Debug\net8.0\FixacaoListas.runtimeconfig.json
+C:\Aulas\csharp-nelio\FixacaoListas\bin\Debug\net8.0\FixacaoListas.dll
+C:\Aulas\csharp-nelio\FixacaoListas\bin\Debug\net8.0\FixacaoListas.pdb
+C:\Aulas\csharp-nelio\FixacaoListas\obj\Debug\net8.0\FixacaoListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\FixacaoListas\obj\Debug\net8.0\FixacaoListas.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\FixacaoListas\obj\Debug\net8.0\FixacaoListas.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\FixacaoListas\obj\Debug\net8.0\FixacaoListas.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\FixacaoListas\obj\Debug\net8.0\FixacaoListas.dll
+C:\Aulas\csharp-nelio\FixacaoListas\obj\Debug\net8.0\refint\FixacaoListas.dll
+C:\Aulas\csharp-nelio\FixacaoListas\obj\Debug\net8.0\FixacaoListas.pdb
+C:\Aulas\csharp-nelio\FixacaoListas\obj\Debug\net8.0\FixacaoListas.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\FixacaoListas\obj\Debug\net8.0\ref\FixacaoListas.dll

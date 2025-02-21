@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.exe
+C:\Aulas\csharp-nelio\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.deps.json
+C:\Aulas\csharp-nelio\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.runtimeconfig.json
+C:\Aulas\csharp-nelio\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.dll
+C:\Aulas\csharp-nelio\ExercicioComposicao\bin\Debug\net8.0\ExercicioComposicao.pdb
+C:\Aulas\csharp-nelio\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.dll
+C:\Aulas\csharp-nelio\ExercicioComposicao\obj\Debug\net8.0\refint\ExercicioComposicao.dll
+C:\Aulas\csharp-nelio\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.pdb
+C:\Aulas\csharp-nelio\ExercicioComposicao\obj\Debug\net8.0\ExercicioComposicao.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\ExercicioComposicao\obj\Debug\net8.0\ref\ExercicioComposicao.dll

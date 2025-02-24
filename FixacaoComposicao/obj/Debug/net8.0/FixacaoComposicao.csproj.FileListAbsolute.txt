@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\FixacaoComposicao\bin\Debug\net8.0\FixacaoComposicao.exe
+C:\Aulas\csharp-nelio\FixacaoComposicao\bin\Debug\net8.0\FixacaoComposicao.deps.json
+C:\Aulas\csharp-nelio\FixacaoComposicao\bin\Debug\net8.0\FixacaoComposicao.runtimeconfig.json
+C:\Aulas\csharp-nelio\FixacaoComposicao\bin\Debug\net8.0\FixacaoComposicao.dll
+C:\Aulas\csharp-nelio\FixacaoComposicao\bin\Debug\net8.0\FixacaoComposicao.pdb
+C:\Aulas\csharp-nelio\FixacaoComposicao\obj\Debug\net8.0\FixacaoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\FixacaoComposicao\obj\Debug\net8.0\FixacaoComposicao.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\FixacaoComposicao\obj\Debug\net8.0\FixacaoComposicao.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\FixacaoComposicao\obj\Debug\net8.0\FixacaoComposicao.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\FixacaoComposicao\obj\Debug\net8.0\FixacaoComposicao.dll
+C:\Aulas\csharp-nelio\FixacaoComposicao\obj\Debug\net8.0\refint\FixacaoComposicao.dll
+C:\Aulas\csharp-nelio\FixacaoComposicao\obj\Debug\net8.0\FixacaoComposicao.pdb
+C:\Aulas\csharp-nelio\FixacaoComposicao\obj\Debug\net8.0\FixacaoComposicao.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\FixacaoComposicao\obj\Debug\net8.0\ref\FixacaoComposicao.dll

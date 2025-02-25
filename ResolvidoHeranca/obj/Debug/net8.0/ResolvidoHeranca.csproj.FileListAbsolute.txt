@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\ResolvidoHeranca\bin\Debug\net8.0\ResolvidoHeranca.exe
+C:\Aulas\csharp-nelio\ResolvidoHeranca\bin\Debug\net8.0\ResolvidoHeranca.deps.json
+C:\Aulas\csharp-nelio\ResolvidoHeranca\bin\Debug\net8.0\ResolvidoHeranca.runtimeconfig.json
+C:\Aulas\csharp-nelio\ResolvidoHeranca\bin\Debug\net8.0\ResolvidoHeranca.dll
+C:\Aulas\csharp-nelio\ResolvidoHeranca\bin\Debug\net8.0\ResolvidoHeranca.pdb
+C:\Aulas\csharp-nelio\ResolvidoHeranca\obj\Debug\net8.0\ResolvidoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\ResolvidoHeranca\obj\Debug\net8.0\ResolvidoHeranca.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\ResolvidoHeranca\obj\Debug\net8.0\ResolvidoHeranca.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\ResolvidoHeranca\obj\Debug\net8.0\ResolvidoHeranca.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\ResolvidoHeranca\obj\Debug\net8.0\ResolvidoHeranca.dll
+C:\Aulas\csharp-nelio\ResolvidoHeranca\obj\Debug\net8.0\refint\ResolvidoHeranca.dll
+C:\Aulas\csharp-nelio\ResolvidoHeranca\obj\Debug\net8.0\ResolvidoHeranca.pdb
+C:\Aulas\csharp-nelio\ResolvidoHeranca\obj\Debug\net8.0\ResolvidoHeranca.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\ResolvidoHeranca\obj\Debug\net8.0\ref\ResolvidoHeranca.dll

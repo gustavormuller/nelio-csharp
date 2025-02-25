@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\FixacaoHeranca\bin\Debug\net8.0\FixacaoHeranca.exe
+C:\Aulas\csharp-nelio\FixacaoHeranca\bin\Debug\net8.0\FixacaoHeranca.deps.json
+C:\Aulas\csharp-nelio\FixacaoHeranca\bin\Debug\net8.0\FixacaoHeranca.runtimeconfig.json
+C:\Aulas\csharp-nelio\FixacaoHeranca\bin\Debug\net8.0\FixacaoHeranca.dll
+C:\Aulas\csharp-nelio\FixacaoHeranca\bin\Debug\net8.0\FixacaoHeranca.pdb
+C:\Aulas\csharp-nelio\FixacaoHeranca\obj\Debug\net8.0\FixacaoHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\FixacaoHeranca\obj\Debug\net8.0\FixacaoHeranca.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\FixacaoHeranca\obj\Debug\net8.0\FixacaoHeranca.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\FixacaoHeranca\obj\Debug\net8.0\FixacaoHeranca.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\FixacaoHeranca\obj\Debug\net8.0\FixacaoHeranca.dll
+C:\Aulas\csharp-nelio\FixacaoHeranca\obj\Debug\net8.0\refint\FixacaoHeranca.dll
+C:\Aulas\csharp-nelio\FixacaoHeranca\obj\Debug\net8.0\FixacaoHeranca.pdb
+C:\Aulas\csharp-nelio\FixacaoHeranca\obj\Debug\net8.0\FixacaoHeranca.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\FixacaoHeranca\obj\Debug\net8.0\ref\FixacaoHeranca.dll

@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\ExercicioAbstratos\bin\Debug\net8.0\ExercicioAbstratos.exe
+C:\Aulas\csharp-nelio\ExercicioAbstratos\bin\Debug\net8.0\ExercicioAbstratos.deps.json
+C:\Aulas\csharp-nelio\ExercicioAbstratos\bin\Debug\net8.0\ExercicioAbstratos.runtimeconfig.json
+C:\Aulas\csharp-nelio\ExercicioAbstratos\bin\Debug\net8.0\ExercicioAbstratos.dll
+C:\Aulas\csharp-nelio\ExercicioAbstratos\bin\Debug\net8.0\ExercicioAbstratos.pdb
+C:\Aulas\csharp-nelio\ExercicioAbstratos\obj\Debug\net8.0\ExercicioAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\ExercicioAbstratos\obj\Debug\net8.0\ExercicioAbstratos.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\ExercicioAbstratos\obj\Debug\net8.0\ExercicioAbstratos.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\ExercicioAbstratos\obj\Debug\net8.0\ExercicioAbstratos.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\ExercicioAbstratos\obj\Debug\net8.0\ExercicioAbstratos.dll
+C:\Aulas\csharp-nelio\ExercicioAbstratos\obj\Debug\net8.0\refint\ExercicioAbstratos.dll
+C:\Aulas\csharp-nelio\ExercicioAbstratos\obj\Debug\net8.0\ExercicioAbstratos.pdb
+C:\Aulas\csharp-nelio\ExercicioAbstratos\obj\Debug\net8.0\ExercicioAbstratos.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\ExercicioAbstratos\obj\Debug\net8.0\ref\ExercicioAbstratos.dll

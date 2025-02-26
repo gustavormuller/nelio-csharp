@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\ExceptionFixacao\bin\Debug\net8.0\ExceptionFixacao.exe
+C:\Aulas\csharp-nelio\ExceptionFixacao\bin\Debug\net8.0\ExceptionFixacao.deps.json
+C:\Aulas\csharp-nelio\ExceptionFixacao\bin\Debug\net8.0\ExceptionFixacao.runtimeconfig.json
+C:\Aulas\csharp-nelio\ExceptionFixacao\bin\Debug\net8.0\ExceptionFixacao.dll
+C:\Aulas\csharp-nelio\ExceptionFixacao\bin\Debug\net8.0\ExceptionFixacao.pdb
+C:\Aulas\csharp-nelio\ExceptionFixacao\obj\Debug\net8.0\ExceptionFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\ExceptionFixacao\obj\Debug\net8.0\ExceptionFixacao.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\ExceptionFixacao\obj\Debug\net8.0\ExceptionFixacao.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\ExceptionFixacao\obj\Debug\net8.0\ExceptionFixacao.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\ExceptionFixacao\obj\Debug\net8.0\ExceptionFixacao.dll
+C:\Aulas\csharp-nelio\ExceptionFixacao\obj\Debug\net8.0\refint\ExceptionFixacao.dll
+C:\Aulas\csharp-nelio\ExceptionFixacao\obj\Debug\net8.0\ExceptionFixacao.pdb
+C:\Aulas\csharp-nelio\ExceptionFixacao\obj\Debug\net8.0\ExceptionFixacao.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\ExceptionFixacao\obj\Debug\net8.0\ref\ExceptionFixacao.dll

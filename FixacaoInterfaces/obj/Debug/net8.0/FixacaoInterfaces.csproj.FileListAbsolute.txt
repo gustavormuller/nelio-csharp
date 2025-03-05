@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\FixacaoInterfaces\bin\Debug\net8.0\FixacaoInterfaces.exe
+C:\Aulas\csharp-nelio\FixacaoInterfaces\bin\Debug\net8.0\FixacaoInterfaces.deps.json
+C:\Aulas\csharp-nelio\FixacaoInterfaces\bin\Debug\net8.0\FixacaoInterfaces.runtimeconfig.json
+C:\Aulas\csharp-nelio\FixacaoInterfaces\bin\Debug\net8.0\FixacaoInterfaces.dll
+C:\Aulas\csharp-nelio\FixacaoInterfaces\bin\Debug\net8.0\FixacaoInterfaces.pdb
+C:\Aulas\csharp-nelio\FixacaoInterfaces\obj\Debug\net8.0\FixacaoInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\FixacaoInterfaces\obj\Debug\net8.0\FixacaoInterfaces.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\FixacaoInterfaces\obj\Debug\net8.0\FixacaoInterfaces.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\FixacaoInterfaces\obj\Debug\net8.0\FixacaoInterfaces.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\FixacaoInterfaces\obj\Debug\net8.0\FixacaoInterfaces.dll
+C:\Aulas\csharp-nelio\FixacaoInterfaces\obj\Debug\net8.0\refint\FixacaoInterfaces.dll
+C:\Aulas\csharp-nelio\FixacaoInterfaces\obj\Debug\net8.0\FixacaoInterfaces.pdb
+C:\Aulas\csharp-nelio\FixacaoInterfaces\obj\Debug\net8.0\FixacaoInterfaces.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\FixacaoInterfaces\obj\Debug\net8.0\ref\FixacaoInterfaces.dll

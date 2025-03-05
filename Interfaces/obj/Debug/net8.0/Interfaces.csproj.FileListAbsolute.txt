@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\Interfaces\bin\Debug\net8.0\Interfaces.exe
+C:\Aulas\csharp-nelio\Interfaces\bin\Debug\net8.0\Interfaces.deps.json
+C:\Aulas\csharp-nelio\Interfaces\bin\Debug\net8.0\Interfaces.runtimeconfig.json
+C:\Aulas\csharp-nelio\Interfaces\bin\Debug\net8.0\Interfaces.dll
+C:\Aulas\csharp-nelio\Interfaces\bin\Debug\net8.0\Interfaces.pdb
+C:\Aulas\csharp-nelio\Interfaces\obj\Debug\net8.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\Interfaces\obj\Debug\net8.0\Interfaces.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\Interfaces\obj\Debug\net8.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\Interfaces\obj\Debug\net8.0\Interfaces.dll
+C:\Aulas\csharp-nelio\Interfaces\obj\Debug\net8.0\refint\Interfaces.dll
+C:\Aulas\csharp-nelio\Interfaces\obj\Debug\net8.0\Interfaces.pdb
+C:\Aulas\csharp-nelio\Interfaces\obj\Debug\net8.0\Interfaces.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\Interfaces\obj\Debug\net8.0\ref\Interfaces.dll

@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\ResolvidoConjunto\bin\Debug\net8.0\ResolvidoConjunto.exe
+C:\Aulas\csharp-nelio\ResolvidoConjunto\bin\Debug\net8.0\ResolvidoConjunto.deps.json
+C:\Aulas\csharp-nelio\ResolvidoConjunto\bin\Debug\net8.0\ResolvidoConjunto.runtimeconfig.json
+C:\Aulas\csharp-nelio\ResolvidoConjunto\bin\Debug\net8.0\ResolvidoConjunto.dll
+C:\Aulas\csharp-nelio\ResolvidoConjunto\bin\Debug\net8.0\ResolvidoConjunto.pdb
+C:\Aulas\csharp-nelio\ResolvidoConjunto\obj\Debug\net8.0\ResolvidoConjunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\ResolvidoConjunto\obj\Debug\net8.0\ResolvidoConjunto.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\ResolvidoConjunto\obj\Debug\net8.0\ResolvidoConjunto.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\ResolvidoConjunto\obj\Debug\net8.0\ResolvidoConjunto.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\ResolvidoConjunto\obj\Debug\net8.0\ResolvidoConjunto.dll
+C:\Aulas\csharp-nelio\ResolvidoConjunto\obj\Debug\net8.0\refint\ResolvidoConjunto.dll
+C:\Aulas\csharp-nelio\ResolvidoConjunto\obj\Debug\net8.0\ResolvidoConjunto.pdb
+C:\Aulas\csharp-nelio\ResolvidoConjunto\obj\Debug\net8.0\ResolvidoConjunto.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\ResolvidoConjunto\obj\Debug\net8.0\ref\ResolvidoConjunto.dll

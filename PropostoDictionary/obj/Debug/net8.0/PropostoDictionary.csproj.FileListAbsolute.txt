@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\PropostoDictionary\bin\Debug\net8.0\PropostoDictionary.exe
+C:\Aulas\csharp-nelio\PropostoDictionary\bin\Debug\net8.0\PropostoDictionary.deps.json
+C:\Aulas\csharp-nelio\PropostoDictionary\bin\Debug\net8.0\PropostoDictionary.runtimeconfig.json
+C:\Aulas\csharp-nelio\PropostoDictionary\bin\Debug\net8.0\PropostoDictionary.dll
+C:\Aulas\csharp-nelio\PropostoDictionary\bin\Debug\net8.0\PropostoDictionary.pdb
+C:\Aulas\csharp-nelio\PropostoDictionary\obj\Debug\net8.0\PropostoDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\PropostoDictionary\obj\Debug\net8.0\PropostoDictionary.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\PropostoDictionary\obj\Debug\net8.0\PropostoDictionary.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\PropostoDictionary\obj\Debug\net8.0\PropostoDictionary.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\PropostoDictionary\obj\Debug\net8.0\PropostoDictionary.dll
+C:\Aulas\csharp-nelio\PropostoDictionary\obj\Debug\net8.0\refint\PropostoDictionary.dll
+C:\Aulas\csharp-nelio\PropostoDictionary\obj\Debug\net8.0\PropostoDictionary.pdb
+C:\Aulas\csharp-nelio\PropostoDictionary\obj\Debug\net8.0\PropostoDictionary.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\PropostoDictionary\obj\Debug\net8.0\ref\PropostoDictionary.dll

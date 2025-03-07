@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\PropostoConjunto\bin\Debug\net8.0\PropostoConjunto.exe
+C:\Aulas\csharp-nelio\PropostoConjunto\bin\Debug\net8.0\PropostoConjunto.deps.json
+C:\Aulas\csharp-nelio\PropostoConjunto\bin\Debug\net8.0\PropostoConjunto.runtimeconfig.json
+C:\Aulas\csharp-nelio\PropostoConjunto\bin\Debug\net8.0\PropostoConjunto.dll
+C:\Aulas\csharp-nelio\PropostoConjunto\bin\Debug\net8.0\PropostoConjunto.pdb
+C:\Aulas\csharp-nelio\PropostoConjunto\obj\Debug\net8.0\PropostoConjunto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\PropostoConjunto\obj\Debug\net8.0\PropostoConjunto.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\PropostoConjunto\obj\Debug\net8.0\PropostoConjunto.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\PropostoConjunto\obj\Debug\net8.0\PropostoConjunto.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\PropostoConjunto\obj\Debug\net8.0\PropostoConjunto.dll
+C:\Aulas\csharp-nelio\PropostoConjunto\obj\Debug\net8.0\refint\PropostoConjunto.dll
+C:\Aulas\csharp-nelio\PropostoConjunto\obj\Debug\net8.0\PropostoConjunto.pdb
+C:\Aulas\csharp-nelio\PropostoConjunto\obj\Debug\net8.0\PropostoConjunto.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\PropostoConjunto\obj\Debug\net8.0\ref\PropostoConjunto.dll

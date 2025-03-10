@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\FixacaoLinq\bin\Debug\net8.0\FixacaoLinq.exe
+C:\Aulas\csharp-nelio\FixacaoLinq\bin\Debug\net8.0\FixacaoLinq.deps.json
+C:\Aulas\csharp-nelio\FixacaoLinq\bin\Debug\net8.0\FixacaoLinq.runtimeconfig.json
+C:\Aulas\csharp-nelio\FixacaoLinq\bin\Debug\net8.0\FixacaoLinq.dll
+C:\Aulas\csharp-nelio\FixacaoLinq\bin\Debug\net8.0\FixacaoLinq.pdb
+C:\Aulas\csharp-nelio\FixacaoLinq\obj\Debug\net8.0\FixacaoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\FixacaoLinq\obj\Debug\net8.0\FixacaoLinq.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\FixacaoLinq\obj\Debug\net8.0\FixacaoLinq.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\FixacaoLinq\obj\Debug\net8.0\FixacaoLinq.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\FixacaoLinq\obj\Debug\net8.0\FixacaoLinq.dll
+C:\Aulas\csharp-nelio\FixacaoLinq\obj\Debug\net8.0\refint\FixacaoLinq.dll
+C:\Aulas\csharp-nelio\FixacaoLinq\obj\Debug\net8.0\FixacaoLinq.pdb
+C:\Aulas\csharp-nelio\FixacaoLinq\obj\Debug\net8.0\FixacaoLinq.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\FixacaoLinq\obj\Debug\net8.0\ref\FixacaoLinq.dll

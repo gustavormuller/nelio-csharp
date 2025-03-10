@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\ResolvidoLinq\bin\Debug\net8.0\ResolvidoLinq.exe
+C:\Aulas\csharp-nelio\ResolvidoLinq\bin\Debug\net8.0\ResolvidoLinq.deps.json
+C:\Aulas\csharp-nelio\ResolvidoLinq\bin\Debug\net8.0\ResolvidoLinq.runtimeconfig.json
+C:\Aulas\csharp-nelio\ResolvidoLinq\bin\Debug\net8.0\ResolvidoLinq.dll
+C:\Aulas\csharp-nelio\ResolvidoLinq\bin\Debug\net8.0\ResolvidoLinq.pdb
+C:\Aulas\csharp-nelio\ResolvidoLinq\obj\Debug\net8.0\ResolvidoLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\ResolvidoLinq\obj\Debug\net8.0\ResolvidoLinq.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\ResolvidoLinq\obj\Debug\net8.0\ResolvidoLinq.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\ResolvidoLinq\obj\Debug\net8.0\ResolvidoLinq.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\ResolvidoLinq\obj\Debug\net8.0\ResolvidoLinq.dll
+C:\Aulas\csharp-nelio\ResolvidoLinq\obj\Debug\net8.0\refint\ResolvidoLinq.dll
+C:\Aulas\csharp-nelio\ResolvidoLinq\obj\Debug\net8.0\ResolvidoLinq.pdb
+C:\Aulas\csharp-nelio\ResolvidoLinq\obj\Debug\net8.0\ResolvidoLinq.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\ResolvidoLinq\obj\Debug\net8.0\ref\ResolvidoLinq.dll

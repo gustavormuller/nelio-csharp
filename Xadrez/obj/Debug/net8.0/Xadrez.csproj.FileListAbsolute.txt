@@ -1,0 +1,14 @@
+C:\Aulas\csharp-nelio\Xadrez\bin\Debug\net8.0\Xadrez.exe
+C:\Aulas\csharp-nelio\Xadrez\bin\Debug\net8.0\Xadrez.deps.json
+C:\Aulas\csharp-nelio\Xadrez\bin\Debug\net8.0\Xadrez.runtimeconfig.json
+C:\Aulas\csharp-nelio\Xadrez\bin\Debug\net8.0\Xadrez.dll
+C:\Aulas\csharp-nelio\Xadrez\bin\Debug\net8.0\Xadrez.pdb
+C:\Aulas\csharp-nelio\Xadrez\obj\Debug\net8.0\Xadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aulas\csharp-nelio\Xadrez\obj\Debug\net8.0\Xadrez.AssemblyInfoInputs.cache
+C:\Aulas\csharp-nelio\Xadrez\obj\Debug\net8.0\Xadrez.AssemblyInfo.cs
+C:\Aulas\csharp-nelio\Xadrez\obj\Debug\net8.0\Xadrez.csproj.CoreCompileInputs.cache
+C:\Aulas\csharp-nelio\Xadrez\obj\Debug\net8.0\Xadrez.dll
+C:\Aulas\csharp-nelio\Xadrez\obj\Debug\net8.0\refint\Xadrez.dll
+C:\Aulas\csharp-nelio\Xadrez\obj\Debug\net8.0\Xadrez.pdb
+C:\Aulas\csharp-nelio\Xadrez\obj\Debug\net8.0\Xadrez.genruntimeconfig.cache
+C:\Aulas\csharp-nelio\Xadrez\obj\Debug\net8.0\ref\Xadrez.dll
